@@ -117,7 +117,7 @@ This mirrors how a real human analyst works — but at machine scale.
 ---
 
 ## Project Structure
-
+```text
 BrainAI/
 ├── app.py
 ├── agent/
@@ -126,7 +126,7 @@ BrainAI/
 ├── utils/
 ├── data/
 └── requirements.txt
-
+```
 
 ---
 
